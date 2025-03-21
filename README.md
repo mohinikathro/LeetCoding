@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/mohinikathro/LeetCoding/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/mohinikathro/LeetCoding/tree/master/0180-consecutive-numbers) |
 | [0596-classes-more-than-5-students](https://github.com/mohinikathro/LeetCoding/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/mohinikathro/LeetCoding/tree/master/0610-triangle-judgement) |
