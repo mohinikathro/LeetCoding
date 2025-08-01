@@ -1,14 +1,13 @@
-WITH OrderedQueue AS (
-    SELECT *, 
-           SUM(weight) OVER (ORDER BY turn) AS cumulative_weight
-    FROM Queue
+with OrderedQueue as (
+    select *, sum(weight) over (order by turn) as sum_weight
+    from Queue
 ),
-ValidBoarding AS (
-    SELECT * 
-    FROM OrderedQueue 
-    WHERE cumulative_weight <= 1000
+validboarding as (
+    select *
+    from OrderedQueue
+    where sum_weight <= 1000
 )
-SELECT person_name 
-FROM ValidBoarding
-ORDER BY turn DESC
-LIMIT 1;
+select person_name
+from validboarding
+order by turn desc
+limit 1
