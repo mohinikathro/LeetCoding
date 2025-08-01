@@ -11,6 +11,7 @@
 | [0610-triangle-judgement](https://github.com/mohinikathro/LeetCoding/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/mohinikathro/LeetCoding/tree/master/0619-biggest-single-number) |
 | [1278-product-price-at-a-given-date](https://github.com/mohinikathro/LeetCoding/tree/master/1278-product-price-at-a-given-date) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/mohinikathro/LeetCoding/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1877-find-followers-count](https://github.com/mohinikathro/LeetCoding/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/mohinikathro/LeetCoding/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/mohinikathro/LeetCoding/tree/master/1942-primary-department-for-each-employee) |
