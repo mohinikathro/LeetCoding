@@ -1,22 +1,26 @@
-# Write your MySQL query statement below
-select results
-from(
-    (
-    select u.name as results
-    from Users u join movierating mr
-    on u.user_id = mr.user_id
-    group by u.name
-    order by count(*) desc, u.name
-    limit 1
+WITH 
+TheMostActiveUser AS (
+    SELECT name
+    FROM 
+        Users
+        NATURAL JOIN MovieRating
+    GROUP BY user_id
+    ORDER BY COUNT(*) DESC, name
+    LIMIT 1
+),
+TheBestMovieFebruary AS (
+    SELECT title
+    FROM
+        Movies
+        NATURAL JOIN MovieRating
+    WHERE created_at BETWEEN '2020-02-01' AND '2020-02-29'
+    GROUP BY movie_id
+    ORDER BY AVG(rating) DESC, title
+    LIMIT 1
 )
-union all
-(
-    select m.title as results
-    from movies m join movierating mr
-    on m.movie_id = mr.movie_id
-    where mr.created_at between '2020-02-01' and '2020-02-29'
-    group by m.title
-    order by avg(mr.rating) desc, title
-    limit 1
-)
-) as combined
+
+SELECT name AS results
+FROM TheMostActiveUser
+UNION ALL
+SELECT title
+FROM TheBestMovieFebruary
