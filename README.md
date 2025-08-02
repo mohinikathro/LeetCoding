@@ -13,6 +13,7 @@
 | [0626-exchange-seats](https://github.com/mohinikathro/LeetCoding/tree/master/0626-exchange-seats) |
 | [1278-product-price-at-a-given-date](https://github.com/mohinikathro/LeetCoding/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/mohinikathro/LeetCoding/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1480-movie-rating](https://github.com/mohinikathro/LeetCoding/tree/master/1480-movie-rating) |
 | [1877-find-followers-count](https://github.com/mohinikathro/LeetCoding/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/mohinikathro/LeetCoding/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/mohinikathro/LeetCoding/tree/master/1942-primary-department-for-each-employee) |
