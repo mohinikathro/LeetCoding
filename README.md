@@ -10,6 +10,7 @@
 | [0596-classes-more-than-5-students](https://github.com/mohinikathro/LeetCoding/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/mohinikathro/LeetCoding/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/mohinikathro/LeetCoding/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/mohinikathro/LeetCoding/tree/master/0626-exchange-seats) |
 | [1278-product-price-at-a-given-date](https://github.com/mohinikathro/LeetCoding/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/mohinikathro/LeetCoding/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1877-find-followers-count](https://github.com/mohinikathro/LeetCoding/tree/master/1877-find-followers-count) |
