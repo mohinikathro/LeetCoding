@@ -12,6 +12,7 @@
 | [0619-biggest-single-number](https://github.com/mohinikathro/LeetCoding/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/mohinikathro/LeetCoding/tree/master/0626-exchange-seats) |
 | [1278-product-price-at-a-given-date](https://github.com/mohinikathro/LeetCoding/tree/master/1278-product-price-at-a-given-date) |
+| [1321-restaurant-growth](https://github.com/mohinikathro/LeetCoding/tree/master/1321-restaurant-growth) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/mohinikathro/LeetCoding/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/mohinikathro/LeetCoding/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/mohinikathro/LeetCoding/tree/master/1480-movie-rating) |
